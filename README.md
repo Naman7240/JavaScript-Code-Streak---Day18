@@ -1,9 +1,10 @@
 JavaScript Code of Streak - DAY18
 
 Q) Write a JavaScript function to hide email addresses to protect from unauthorized user.
-Test Data:
-console.log(protect_email("namankhandelwalvit@gmail.com"));
-"naman...@example.com"
+
+Test Data:         
+console.log(protect_email("namankhandelwalvit@gmail.com"));         
+"naman...@gmail.com"    
 
 Explanation:
 
